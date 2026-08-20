@@ -1,0 +1,12 @@
+{
+  "name": "api-gestion-utilisateurs",
+  "version": "1.0.0",
+  "description": "API REST de gestion des utilisateurs créée avec Express et Copilot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
